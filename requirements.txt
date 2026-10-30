@@ -1,0 +1,7 @@
+# Python 3.12+ (developed on 3.14). Free and open source only.
+pandas>=2.2
+numpy>=1.26
+duckdb>=1.0
+scikit-learn>=1.4
+# Local LLM for the monthly summary is optional and runs via Ollama
+# (https://ollama.com), called over the standard library. No API keys, no cost.

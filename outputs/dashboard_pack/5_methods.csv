@@ -1,0 +1,5 @@
+Method,AUC,Churners caught in top 20 pct,Churner revenue caught in top 20 pct
+Step 4 rule (ratio only),0.656,30.1,17.4
+Logistic regression,0.769,33.9,11.0
+Gradient boosting,0.768,33.9,10.6
+Logistic risk x past spend,,18.7,49.4

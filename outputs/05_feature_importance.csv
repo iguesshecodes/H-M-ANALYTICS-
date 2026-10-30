@@ -1,0 +1,13 @@
+feature,auc_drop_when_scrambled
+n_days,0.0786
+days_since,0.0231
+days_180,0.0087
+age,0.0019
+med_gap,0.0011
+items365,0.0007
+tenure_days,0.0003
+rev365,0.0002
+rev90,0.0002
+days_90,0.0001
+ratio,0.0001
+ch1_share,-0.0004

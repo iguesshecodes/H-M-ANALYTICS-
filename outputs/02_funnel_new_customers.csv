@@ -1,0 +1,4 @@
+stage,customers,pct_of_new_buyers,pct_of_previous_stage
+1. First purchase,18122,100.0,
+2. Came back within 180 days,7659,42.3,42.3
+3. Loyal within 180 days (5+ days),1301,7.2,17.0

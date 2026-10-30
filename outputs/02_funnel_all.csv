@@ -1,0 +1,4 @@
+stage,customers,pct_of_buyers,pct_of_previous_stage
+1. Bought at least once,136608,100.0,
+2. Came back (2+ shopping days),92100,67.4,67.4
+3. Loyal (5+ shopping days),54004,39.5,58.6

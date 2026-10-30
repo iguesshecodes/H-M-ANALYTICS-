@@ -1,0 +1,13 @@
+cut_date,status,customers,bought_again_in_90d_pct
+2019-12-24,1 On track,30152,65.1
+2019-12-24,2 Slipping,9947,55.4
+2019-12-24,3 Drifting,9194,48.0
+2019-12-24,4 Gone quiet,8240,30.9
+2020-03-24,1 On track,26090,63.3
+2020-03-24,2 Slipping,13114,55.8
+2020-03-24,3 Drifting,12260,49.7
+2020-03-24,4 Gone quiet,11060,31.9
+2020-06-24,1 On track,32668,66.7
+2020-06-24,2 Slipping,10639,54.6
+2020-06-24,3 Drifting,11017,49.6
+2020-06-24,4 Gone quiet,14171,33.0
